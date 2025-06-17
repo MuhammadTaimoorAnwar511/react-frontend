@@ -9,6 +9,8 @@ const App = () => {
     "Dream big and dare to fail.",
     "Stay hungry, stay foolish.",
     "Turn your wounds into wisdom.",
+    "Taimoor and Nauman Devops",
+    "Love AWS"
   ];
 
   const getRandomQuote = () => {
